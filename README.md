@@ -9,13 +9,11 @@
 
 </div>
 
-A new passage has opened to the mythical Valley of Life! See for yourself what wonders it holds, and see if you can claim the treasures that lie within.
-
-Join up with your friends to conquer the second chapter of Corehaven Chronicles: The Valley of Life. You'll need might, magic, tactics and a bit of luck in order to defeat all the bosses. Along the way you'll collect and upgrade epic gear, and challenge the progressively harder and harder difficulty levels: Normal, Hard, Nightmare and Infinite Difficulty.
+The player's objective is to find a lost artifact—a green weapon(poison staff)—by entering a location through a portal. There are three primary regions to explore, and each one is defended by dragons, skull-headed demons, and demons possessing fire, earth, and ice abilities. Once the quest is complete, the game is over, and you can go back to the portal after you've found the missing artifact.
 
 ## Disclaimer
 
-This project is being released as-is and targetted towards more advanced users. It does not reflect current best practices nor is it perfectly optimized, please keep that in mind.
+This project is being released as-is and targeted towards more testing users. It does not reflect current best practices nor is it perfectly optimized.
 
 ## Project Structure
 
