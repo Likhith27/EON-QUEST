@@ -1,0 +1,95 @@
+MetaVersion: 1
+MarketplaceDetails {
+  Id: "1ab24d1bc16f4a549c930a6735816691"
+  OwnerAccountId: "6aaf7db43dba4c0bab7c38dc88ef7a16"
+  OwnerName: "SunRYZE777"
+  Version: "1.0.0"
+}
+AssetIdsOriginalToNew {
+  key: 4098471847024829835
+  value: 16697142577037170454
+}
+AssetIdsOriginalToNew {
+  key: 5359373209118751515
+  value: 15853953316637236447
+}
+AssetIdsOriginalToNew {
+  key: 7062867126206901311
+  value: 16703978774967061795
+}
+AssetIdsOriginalToNew {
+  key: 7848598714220521792
+  value: 8716081778455200889
+}
+AssetIdsOriginalToNew {
+  key: 9385409368521157684
+  value: 2412152548266653724
+}
+AssetIdsOriginalToNew {
+  key: 10217925400578789902
+  value: 2745687032765190941
+}
+AssetIdsOriginalToNew {
+  key: 11587114690051842504
+  value: 1256307611935080932
+}
+AssetIdsOriginalToNew {
+  key: 11834189001336380706
+  value: 8689143171685823723
+}
+AssetIdsOriginalToNew {
+  key: 12623475301463682513
+  value: 8775216096330520062
+}
+AssetIdsOriginalToNew {
+  key: 14310107374205662682
+  value: 11395875440668656460
+}
+AssetIdsOriginalToNew {
+  key: 15469615647507826782
+  value: 2989766741602800631
+}
+AssetIdsOriginalToNew {
+  key: 16068552354546186054
+  value: 603029030576198569
+}
+AssetIdsOriginalToNew {
+  key: 16217115504221651484
+  value: 7567623395754293756
+}
+AssetIdsOriginalToNew {
+  key: 16254509193805293425
+  value: 11228627306144017857
+}
+AssetIdsOriginalToNew {
+  key: 16255994608222486089
+  value: 13572295051412911121
+}
+AssetIdsOriginalToNew {
+  key: 16402319888463215582
+  value: 7735989704348244327
+}
+AssetIdsOriginalToNew {
+  key: 16550124432885179518
+  value: 12702967933596633019
+}
+AssetIdsOriginalToNew {
+  key: 17207568812902089837
+  value: 1462620784725556670
+}
+AssetIdsOriginalToNew {
+  key: 17343374339217532792
+  value: 9473939614474147850
+}
+AssetIdsOriginalToNew {
+  key: 17432567799398463433
+  value: 112786228497424337
+}
+AssetIdsOriginalToNew {
+  key: 18349703296162552209
+  value: 3444414068482106305
+}
+AssetIdsOriginalToNew {
+  key: 18369955893380482871
+  value: 11649774371510153357
+}
