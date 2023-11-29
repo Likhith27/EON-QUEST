@@ -5,7 +5,7 @@
 [![Build Status](https://github.com/Core-Team-META/Corehaven/workflows/CI/badge.svg)](https://github.com/Core-Team-META/Corehaven/actions/workflows/ci.yml?query=workflow%3ACI%29)
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/Core-Team-META/Corehaven?style=plastic)
 
-[![](Screenshots/corehaven_banner.png)](https://www.coregames.com/games/fbc99e/mayadweepam)
+[![](poster.png)](https://www.coregames.com/games/fbc99e/mayadweepam)
 
 </div>
 
