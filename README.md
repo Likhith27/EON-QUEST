@@ -11,10 +11,10 @@
 
 "Eon Quest" is rooted in a high-fantasy theme, blending elements of magic, adventure, and exploration. The game draws inspiration from classic fantasy literature, immersing players in a world filled with mythical creatures, ancient artifacts, and the clash between elemental forces. The ambiance is both mysterious and awe-inspiring, creating a sense of wonder as players journey through the fantastical realms of Eon.
 
-## Disclaimer
-
-This project is being released as-is and targeted towards more testing users. It does not reflect current best practices nor is it perfectly optimized.
-
+## Note
+   CORE is a game creation platform that allows users to create and play games. CORE primarily focuses on web-based games and doesn't generate standalone 
+   executable files (.exe) like traditional game engines. Instead, games created with CORE are typically played in a web browser or through the CORE launcher.
+   
 ## How to install and run the game
 
 - [How to install core and launch](https://support.coregames.com/hc/en-us/articles/360044766613-Installing-Launching-Core)
