@@ -156,6 +156,6 @@ The central objective of "Eon Quest" is for the player to find the lost artifact
   night cycle functionalities. The immersive sky visuals in Eon Quest, including changes in lighting conditions, are likely attributed to the capabilities 
   offered by the Sky Obey package.
   
-## License
+# License
 
 Licensed under the [Apache License 2.0](LICENSE) license.
