@@ -11,6 +11,15 @@
 
 "Eon Quest" is rooted in a high-fantasy theme, blending elements of magic, adventure, and exploration. The game draws inspiration from classic fantasy literature, immersing players in a world filled with mythical creatures, ancient artifacts, and the clash between elemental forces. The ambiance is both mysterious and awe-inspiring, creating a sense of wonder as players journey through the fantastical realms of Eon.
 
+## Disclaimer
+
+This project is being released as-is and targeted towards more testing users. It does not reflect current best practices nor is it perfectly optimized.
+
+## How to install and run the game
+
+- [How to install core and launch](https://support.coregames.com/hc/en-us/articles/360044766613-Installing-Launching-Core)
+- After installing the core game engine from unreal engine, [click here](https://www.coregames.com/games/fbc99e/mayadweepam) to play the game.
+- 
 ## Objective 
 
 The central objective of "Eon Quest" is for the player to find the lost artifact—a powerful green weapon—hidden within the diverse landscapes of Eon. The hero's mission is not only a personal quest for glory but also a noble endeavor to prevent the misuse of the artifact's immense power. To achieve this goal, players must navigate through perilous terrains, solve intricate puzzles, and confront a variety of enemies, including skull-headed demons with elemental powers and colossal dragons.
@@ -19,7 +28,7 @@ The central objective of "Eon Quest" is for the player to find the lost artifact
 
 - World Design:
 
-The world of Eon is intricately designed, featuring visually stunning landscapes that reflect the elemental themes of fire, earth, and ice. Each region has its own distinct flora and fauna, contributing to a sense of immersion and diversity.
+      The world of Eon is intricately designed, featuring visually stunning landscapes that reflect the elemental themes of fire, earth, and ice. Each region has         its own distinct flora and fauna, contributing to a sense of immersion and diversity.
 
 - Character Design:
 
