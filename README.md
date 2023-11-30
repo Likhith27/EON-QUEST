@@ -25,7 +25,7 @@
 The central objective of "Eon Quest" is for the player to find the lost artifact—a powerful green weapon—hidden within the diverse landscapes of Eon. The hero's mission is not only a personal quest for glory but also a noble endeavor to prevent the misuse of the artifact's immense power. To achieve this goal, players must navigate through perilous terrains, solve intricate puzzles, and confront a variety of enemies, including skull-headed demons with elemental powers and colossal dragons.
 
 ## Gameplay
-  - [click here](https://screenrec.com/share/F31uH2oqcC) for HD video.
+  - [click here](https://screenrec.com/share/F31uH2oqcC) for HD video 😎.
   - [click here](https://youtu.be/pIoA1624Yus?si=BUlWGF9blsz14zS-) for the intro 😋.
     
 ## Creative Aspects:
