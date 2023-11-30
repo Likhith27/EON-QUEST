@@ -87,10 +87,47 @@ The central objective of "Eon Quest" is for the player to find the lost artifact
 - Player Progression and Upgrades:
   As the player advances, they can earn experience points and discover or unlock new weapons and abilities. This progression system adds a layer of depth to the    gameplay, rewarding players for their exploration and combat achievements.
 
+- Terrain design and visual enhancements:
+  - The Sculptor tool, integrated into the properties section, has been employed to shape the terrain of Eon Quest, creating natural contours, hills, and 
+  valleys. This tool allows for a more organic and visually appealing landscape, enhancing the overall aesthetics of the game.
 
+- Foliage Placement:
+  The sculpted terrain is complemented by the strategic placement of foliage elements such as trees, skulls, and mushrooms. The Sculptor tool allows for the 
+  seamless integration of these elements into the natural landscape, creating a harmonious blend of organic and fantastical features.
+  
 ## Project Structure
 
- 
+ # Script Functionality in "Eon Quest":
+   some important scripts in the game are 
+    
+  - Player Scripts:
+    playerbob.lua: This script serves as the core controller for the player character, handling basic movement, interactions, and input. It manages the player's 
+    position, collision detection, and interfaces with other scripts to orchestrate various aspects of the player's actions.
+
+    playerbobrotateclient.lua: Responsible for controlling the player's orientation and rotation in response to user input. This script ensures that the player's 
+    character faces the correct direction based on their movement, enhancing the overall visual experience.
+
+     playerprofiledisplaycontent.lua: Manages the display of the player's profile information, including statistics, achievements, and progress. This script 
+     contributes to the immersive nature of the game by providing players with personalized feedback on their journey through Eon.
+
+     playerhomingtargets.lua: Handles the logic for homing targets, possibly associated with certain weapons or abilities. This script allows the player to lock 
+     onto specific enemies or objects, enhancing combat strategy and target prioritization.
+
+ - Portal Script:
+
+   sceneportalserver.lua: Attached to the portal, this script manages the functionality of transporting the player between worlds. It may include animations, 
+   sound effects, and triggers related to the portal's activation, ensuring a seamless transition between different areas within Eon.
+   
+ - UI Scripts:
+   screenscoreboardcontrollerclient.lua: Manages the UI for the coins board or scoreboard. This script updates and displays the player's current score, possibly 
+   representing collected coins or other in-game achievements. It contributes to the player's sense of progress and accomplishment.
+
+   healthbarcontrollerclient.lua: Attached to the health bar UI, this script dynamically updates and displays the player's health during gameplay. It could 
+   include visual effects for damage, healing, or other status changes, providing crucial feedback to the player about their current state.
+
+- Weapon Scripts:
+  lootdropfactory.lua: Handles the spawning and behavior of weapons as loot drops within the game. This script ensures that weapons are appropriately distributed 
+  throughout the game world, possibly based on player progression or enemy encounters. It may also include logic for randomization in loot drops.
 
 ## License
 
