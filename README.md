@@ -2,9 +2,6 @@
 
 # EON QUEST: IN THE FORBIDDEN FOREST
 
-[![Build Status](https://github.com/Core-Team-META/Corehaven/workflows/CI/badge.svg)](https://github.com/Core-Team-META/Corehaven/actions/workflows/ci.yml?query=workflow%3ACI%29)
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/Core-Team-META/Corehaven?style=plastic)
-
 [![Play Game here](poster.png)](https://www.coregames.com/games/fbc99e/mayadweepam)
 
 </div>
@@ -27,6 +24,7 @@ The central objective of "Eon Quest" is for the player to find the lost artifact
 ## Gameplay
   - <code>[click here](https://screenrec.com/share/F31uH2oqcC) for HD video</code> 😎.
   - <code>[click here](https://youtu.be/pIoA1624Yus?si=BUlWGF9blsz14zS-) for the intro</code> 😋.
+  - Because of the quick video coverage, NPC kit enemies had very little health bars during gameplay. 
     
 ## Creative Aspects:
 
