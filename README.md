@@ -31,17 +31,20 @@ The central objective of "Eon Quest" is for the player to find the lost artifact
 ## Creative Aspects:
 
 - World Design:
-  The world of Eon is intricately designed, featuring visually stunning landscapes that reflect the elemental themes of fire, earth, and ice. Each region has         its own distinct flora and fauna, contributing to a sense of immersion and diversity.
+  The world of Eon is intricately designed, featuring visually stunning landscapes that reflect the elemental themes of fire, earth, and ice. Each region has         its own distinct flora and fauna, 
+  contributing to a sense of immersion and diversity.
 
 - Character Design:
-  The protagonist is a relatable yet valiant character, allowing players to project themselves into the fantasy world. The enemies, including skull-headed            demons and dragons, are creatively crafted with intricate details to make each encounter memorable.
+  The protagonist is a relatable yet valiant character, allowing players to project themselves into the fantasy world. The enemies, including skull-headed            demons and dragons, are creatively crafted 
+  with intricate details to make each encounter memorable.
 
 - Artifact Design:
   The green weapon is a focal point of the game's aesthetic appeal. Its design should exude an otherworldly, ethereal quality, reflecting the potent magic it 
   possesses. The weapon's visual effects and animations should be captivating, making it a symbol of both danger and hope.
 
 - Soundtrack:
-  The game's soundtrack complements the immersive experience, dynamically changing to match the tone of the gameplay. From haunting melodies in mysterious          caverns to epic orchestrations during dragon battles, the music enhances the emotional depth of the player's journey.
+  The game's soundtrack complements the immersive experience, dynamically changing to match the tone of the gameplay. From haunting melodies in mysterious          caverns to epic orchestrations during dragon 
+  battles, the music enhances the emotional depth of the player's journey.
 
 - Narrative Depth:
   The game weaves a compelling narrative, incorporating ancient lore, forgotten prophecies, and the moral implications of possessing such a powerful artifact. 
@@ -105,6 +108,7 @@ The central objective of "Eon Quest" is for the player to find the lost artifact
    some important scripts in the game are 
     
   - Player Scripts:
+
     <code>playerbob.lua</code>: This script serves as the core controller for the player character, handling basic movement, interactions, and input. It manages the player's 
     position, collision detection, and interfaces with other scripts to orchestrate various aspects of the player's actions.
 
