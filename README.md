@@ -142,23 +142,23 @@ The central objective of "Eon Quest" is for the player to find the lost artifact
   
 ## Packages Used in "Eon Quest":
 
-- Evil Monsters NPC Kit:
+- <code>Evil Monsters NPC Kit</code>:
   This package provides a variety of evil monster character models and assets. The demons, including skull-headed demons with elemental powers, are likely   
   sourced from this kit. The package may also include animations, textures, and sound effects to bring these menacing creatures to life in Eon Quest.
   
-- Fantasy Weapons Pack:
+- <code>Fantasy Weapons Pack</code>:
   The fantasy weapons pack enhances the arsenal available to the player. With a diverse selection of swords, bows, and magical staffs, this package contributes 
  to the visual variety and strategic depth of combat. Each weapon may have unique visual effects and animations, enriching the player's experience during battles.
 
-- NPC Enemies Kit 1:
+- <code>NPC Enemies Kit 1</code>:
   This package extends the variety of enemies in Eon Quest beyond the evil monsters kit. It likely includes additional demon types or other hostile creatures, 
   each with its own set of animations, behaviors, and characteristics. This variety adds complexity to combat scenarios and keeps gameplay engaging.
 
-- Scene Viewer:
+- <code>Scene Viewer</code>:
  The scene viewer package facilitates the creation and management of game environments. It may offer tools for terrain sculpting, scene organization, and dynamic 
  lighting. The sculpted terrain and diverse environments in Eon Quest are likely crafted using features provided by the scene viewer package.
 
-- Sky Obey:
+- <code>Sky Obey</code>:
   Sky Obey is likely a package that enhances the game's sky and atmospheric visuals. It may provide a range of dynamic sky settings, weather effects, and day-- 
   night cycle functionalities. The immersive sky visuals in Eon Quest, including changes in lighting conditions, are likely attributed to the capabilities 
   offered by the Sky Obey package.
