@@ -5,7 +5,7 @@
 [![Build Status](https://github.com/Core-Team-META/Corehaven/workflows/CI/badge.svg)](https://github.com/Core-Team-META/Corehaven/actions/workflows/ci.yml?query=workflow%3ACI%29)
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/Core-Team-META/Corehaven?style=plastic)
 
-[![](poster.png)](https://www.coregames.com/games/fbc99e/mayadweepam)
+[![Play Game here](poster.png)](https://www.coregames.com/games/fbc99e/mayadweepam)
 
 </div>
 
@@ -24,6 +24,9 @@ This project is being released as-is and targeted towards more testing users. It
 
 The central objective of "Eon Quest" is for the player to find the lost artifact—a powerful green weapon—hidden within the diverse landscapes of Eon. The hero's mission is not only a personal quest for glory but also a noble endeavor to prevent the misuse of the artifact's immense power. To achieve this goal, players must navigate through perilous terrains, solve intricate puzzles, and confront a variety of enemies, including skull-headed demons with elemental powers and colossal dragons.
 
+## Gameplay
+  - [click here](https://screenrec.com/share/F31uH2oqcC) for HD video.
+  - [![click here](poster.png)](https://youtu.be/pIoA1624Yus?si=BUlWGF9blsz14zS-) for the intro 😋.
 ## Creative Aspects:
 
 - World Design:
@@ -128,7 +131,30 @@ The central objective of "Eon Quest" is for the player to find the lost artifact
 - Weapon Scripts:
   lootdropfactory.lua: Handles the spawning and behavior of weapons as loot drops within the game. This script ensures that weapons are appropriately distributed 
   throughout the game world, possibly based on player progression or enemy encounters. It may also include logic for randomization in loot drops.
+  
+## Packages Used in "Eon Quest":
 
+- Evil Monsters NPC Kit:
+  This package provides a variety of evil monster character models and assets. The demons, including skull-headed demons with elemental powers, are likely   
+  sourced from this kit. The package may also include animations, textures, and sound effects to bring these menacing creatures to life in Eon Quest.
+  
+- Fantasy Weapons Pack:
+  The fantasy weapons pack enhances the arsenal available to the player. With a diverse selection of swords, bows, and magical staffs, this package contributes 
+ to the visual variety and strategic depth of combat. Each weapon may have unique visual effects and animations, enriching the player's experience during battles.
+
+- NPC Enemies Kit 1:
+  This package extends the variety of enemies in Eon Quest beyond the evil monsters kit. It likely includes additional demon types or other hostile creatures, 
+  each with its own set of animations, behaviors, and characteristics. This variety adds complexity to combat scenarios and keeps gameplay engaging.
+
+- Scene Viewer:
+ The scene viewer package facilitates the creation and management of game environments. It may offer tools for terrain sculpting, scene organization, and dynamic 
+ lighting. The sculpted terrain and diverse environments in Eon Quest are likely crafted using features provided by the scene viewer package.
+
+- Sky Obey:
+  Sky Obey is likely a package that enhances the game's sky and atmospheric visuals. It may provide a range of dynamic sky settings, weather effects, and day-- 
+  night cycle functionalities. The immersive sky visuals in Eon Quest, including changes in lighting conditions, are likely attributed to the capabilities 
+  offered by the Sky Obey package.
+  
 ## License
 
 Licensed under the [Apache License 2.0](LICENSE) license.
