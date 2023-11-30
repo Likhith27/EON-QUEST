@@ -15,21 +15,17 @@ The player's objective is to find a lost artifact—a green weapon(poison staff)
 
 This project is being released as-is and targeted towards more testing users. It does not reflect current best practices nor is it perfectly optimized.
 
+## How to install and run the game
+
+[![](How to install core and launch)]([![](poster.png)](https://www.coregames.com/games/fbc99e/mayadweepam))
+
 ## Project Structure
 
-Corehaven Chronicles consists of 3 games, each of those are in their respective top level folder of the project:
+ EON QUEST consists of 3 temples, the green artifact is present in one of the temples:
 
-- DungeonHubWorld, the main game.
-- Dungeon_01
-- Dungeon_02
-
-## Feedback & Support
-
-Please use GitHub issues for feedback and support.
-
-## Contributing
-
-If you are interested in fixing issues and contributing directly to the code base, please see our [contributing guidelines](CONTRIBUTING.md).
+- Earth monster
+- Ice monster
+- Fire monster
 
 ## License
 
