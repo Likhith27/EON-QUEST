@@ -17,7 +17,7 @@ This project is being released as-is and targeted towards more testing users. It
 
 ## How to install and run the game
 
-[![](How to install core and launch)]([![](poster.png)](https://www.coregames.com/games/fbc99e/mayadweepam))
+[How to install core and launch](https://www.coregames.com/games/fbc99e/mayadweepam)
 
 ## Project Structure
 
