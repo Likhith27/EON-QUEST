@@ -18,7 +18,7 @@
 ## How to install and run the game
 
 - <code>[How to install core and launch](https://support.coregames.com/hc/en-us/articles/360044766613-Installing-Launching-Core)</code>
-- After installing the core game engine from Unreal engine, [click here](https://www.coregames.com/games/fbc99e/mayadweepam) to play the game or click on the poster.
+- After installing the core game engine from Unreal engine, <code>[click here](https://www.coregames.com/games/fbc99e/mayadweepam)</code> to play the game or click on the poster.
 
 ## Objective 
 
