@@ -13,7 +13,7 @@
 
 ## Note
    CORE is a game creation platform that allows users to create and play games. CORE primarily focuses on web-based games and doesn't generate standalone 
-   executable files (.exe) like traditional game engines. Instead, games created with CORE are typically played in a web browser or through the CORE launcher.
+   executable files (.exe) like traditional game engines. Instead, games created with CORE are typically played through the CORE launcher.
    
 ## How to install and run the game
 
