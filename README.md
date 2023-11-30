@@ -24,8 +24,9 @@ The central objective of "Eon Quest" is for the player to find the lost artifact
 ## Gameplay
   - <code>[click here](https://screenrec.com/share/F31uH2oqcC) for HD video</code> 😎.
   - <code>[click here](https://youtu.be/pIoA1624Yus?si=BUlWGF9blsz14zS-) for the intro</code> 😋.
-  - Because of the quick video coverage, NPC kit enemies had very little health bars during gameplay. 
-    
+  - Because of the quick video coverage, NPC kit enemies had very little health bars during gameplay.
+  - The health bar in the game is moderate.
+
 ## Creative Aspects:
 
 - World Design:
