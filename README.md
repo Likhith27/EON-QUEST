@@ -25,8 +25,8 @@
 The central objective of "Eon Quest" is for the player to find the lost artifact—a powerful green weapon—hidden within the diverse landscapes of Eon. The hero's mission is not only a personal quest for glory but also a noble endeavor to prevent the misuse of the artifact's immense power. To achieve this goal, players must navigate through perilous terrains, solve intricate puzzles, and confront a variety of enemies, including skull-headed demons with elemental powers and colossal dragons.
 
 ## Gameplay
-  - [click here](https://screenrec.com/share/F31uH2oqcC) for HD video 😎.
-  - [click here](https://youtu.be/pIoA1624Yus?si=BUlWGF9blsz14zS-) for the intro 😋.
+  - <code>[click here](https://screenrec.com/share/F31uH2oqcC) for HD video</code> 😎.
+  - <code>[click here](https://youtu.be/pIoA1624Yus?si=BUlWGF9blsz14zS-) for the intro</code> 😋.
     
 ## Creative Aspects:
 
@@ -105,16 +105,16 @@ The central objective of "Eon Quest" is for the player to find the lost artifact
    some important scripts in the game are 
     
   - Player Scripts:
-    <mark>playerbob.lua</mark>: This script serves as the core controller for the player character, handling basic movement, interactions, and input. It manages the player's 
+    <code>playerbob.lua</code>: This script serves as the core controller for the player character, handling basic movement, interactions, and input. It manages the player's 
     position, collision detection, and interfaces with other scripts to orchestrate various aspects of the player's actions.
 
-    <mark> playerbobrotateclient.lua </mark>: Responsible for controlling the player's orientation and rotation in response to user input. This script ensures that the player's 
+    <code> playerbobrotateclient.lua </code>: Responsible for controlling the player's orientation and rotation in response to user input. This script ensures that the player's 
     character faces the correct direction based on their movement, enhancing the overall visual experience.
 
-     <mark> playerprofiledisplaycontent.lua</mark>: Manages the display of the player's profile information, including statistics, achievements, and progress. This script 
+     <code> playerprofiledisplaycontent.lua</code>: Manages the display of the player's profile information, including statistics, achievements, and progress. This script 
      contributes to the immersive nature of the game by providing players with personalized feedback on their journey through Eon.
 
-     <mark>playerhomingtargets.lua</mark>: Handles the logic for homing targets, possibly associated with certain weapons or abilities. This script allows the player to lock 
+     <code>playerhomingtargets.lua</code>: Handles the logic for homing targets, possibly associated with certain weapons or abilities. This script allows the player to lock 
      onto specific enemies or objects, enhancing combat strategy and target prioritization.
 
  - Portal Script:
@@ -123,14 +123,14 @@ The central objective of "Eon Quest" is for the player to find the lost artifact
    sound effects, and triggers related to the portal's activation, ensuring a seamless transition between different areas within Eon.
    
  - UI Scripts:
-   <mark>screenscoreboardcontrollerclient.lua</mark>: Manages the UI for the coins board or scoreboard. This script updates and displays the player's current score, possibly 
+   <code>screenscoreboardcontrollerclient.lua</code>: Manages the UI for the coins board or scoreboard. This script updates and displays the player's current score, possibly 
    representing collected coins or other in-game achievements. It contributes to the player's sense of progress and accomplishment.
 
-   <mark>healthbarcontrollerclient.lua</mark>: Attached to the health bar UI, this script dynamically updates and displays the player's health during gameplay. It could 
+   <code>healthbarcontrollerclient.lua</code>: Attached to the health bar UI, this script dynamically updates and displays the player's health during gameplay. It could 
    include visual effects for damage, healing, or other status changes, providing crucial feedback to the player about their current state.
 
 - Weapon Scripts:
-  <mark>lootdropfactory.lua</mark>: Handles the spawning and behavior of weapons as loot drops within the game. This script ensures that weapons are appropriately distributed 
+  <code>lootdropfactory.lua</code>: Handles the spawning and behavior of weapons as loot drops within the game. This script ensures that weapons are appropriately distributed 
   throughout the game world, possibly based on player progression or enemy encounters. It may also include logic for randomization in loot drops.
   
 ## Packages Used in "Eon Quest":
