@@ -11,6 +11,8 @@
 ## Note
    CORE is a game creation platform that allows users to create and play games. CORE primarily focuses on web-based games and doesn't generate standalone 
    executable files (.exe) like traditional game engines. Instead, games created with CORE are typically played through the CORE launcher.
+
+   #### The game's original name, Mayadweepam, was subsequently changed to Eon Quest:In the forbidden forest. In core engine the game name goes as "Mayadweepam"
    
 ## How to install and run the game
 
