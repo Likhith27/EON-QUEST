@@ -59,7 +59,7 @@ The central objective of "Eon Quest" is for the player to find the lost artifact
   The game boasts a diverse selection of weapons available for the player to choose from at the start. Ranging from swords and bows to magical staffs, each         weapon has its strengths and weaknesses. Players must strategically select the right weapon for the type of demon they encounter.
    
 - Demon Diversity:
-  Leveraging the community content NPC kit, "Eon Quest" introduces a variety of demons, each with unique attributes and abilities. Some demons may have higher      health but move slower, while others may be more agile but have lower health. This diversity adds depth to combat and requires players to adapt their 
+  Leveraging the community content <code>NPC kit</code>, "Eon Quest" introduces a variety of demons, each with unique attributes and abilities. Some demons may have higher      health but move slower, while others may be more agile but have lower health. This diversity adds depth to combat and requires players to adapt their 
   strategies.
   
 - Health and Weakness System:
@@ -76,7 +76,7 @@ The central objective of "Eon Quest" is for the player to find the lost artifact
   
 - Terrain Design:
   The expansive terrain, painted with lush grass and featuring foliage such as trees, skulls, and mushrooms, creates an immersive and visually appealing   
-  environment. The 1024*1024 dimension allows for expansive landscapes, enhancing the sense of exploration and discovery.
+  environment. The <code>1024*1024</code> dimension allows for expansive landscapes, enhancing the sense of exploration and discovery.
   
 - Portal Mechanics:
   The portal, acquired from project content, serves as the gateway between worlds. It not only facilitates the protagonist's arrival in Eon but also plays a 
@@ -105,6 +105,7 @@ The central objective of "Eon Quest" is for the player to find the lost artifact
 # Project Structure
 
  ## Script Functionality in "Eon Quest":
+ 
    some important scripts in the game are 
     
   - Player Scripts:
