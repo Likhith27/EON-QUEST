@@ -18,7 +18,7 @@ This project is being released as-is and targeted towards more testing users. It
 ## How to install and run the game
 
 - [How to install core and launch](https://support.coregames.com/hc/en-us/articles/360044766613-Installing-Launching-Core)
-- After installing the core game engine from unreal engine, [click here](https://www.coregames.com/games/fbc99e/mayadweepam) to play the game.
+- After installing the core game engine from Unreal engine, [click here](https://www.coregames.com/games/fbc99e/mayadweepam) to play the game.
 
 ## Objective 
 
@@ -26,7 +26,8 @@ The central objective of "Eon Quest" is for the player to find the lost artifact
 
 ## Gameplay
   - [click here](https://screenrec.com/share/F31uH2oqcC) for HD video.
-  - [![click here](poster.png)](https://youtu.be/pIoA1624Yus?si=BUlWGF9blsz14zS-) for the intro 😋.
+  - [click here](https://youtu.be/pIoA1624Yus?si=BUlWGF9blsz14zS-) for the intro 😋.
+    
 ## Creative Aspects:
 
 - World Design:
