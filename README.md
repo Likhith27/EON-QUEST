@@ -91,13 +91,13 @@ The central objective of "Eon Quest" is for the player to find the lost artifact
   - The Sculptor tool, integrated into the properties section, has been employed to shape the terrain of Eon Quest, creating natural contours, hills, and 
   valleys. This tool allows for a more organic and visually appealing landscape, enhancing the overall aesthetics of the game.
 
-- Foliage Placement:
-  The sculpted terrain is complemented by the strategic placement of foliage elements such as trees, skulls, and mushrooms. The Sculptor tool allows for the 
-  seamless integration of these elements into the natural landscape, creating a harmonious blend of organic and fantastical features.
+  - Foliage Placement:
+    The sculpted terrain is complemented by the strategic placement of foliage elements such as trees, skulls, and mushrooms. The Sculptor tool allows for the 
+    seamless integration of these elements into the natural landscape, creating a harmonious blend of organic and fantastical features.
   
-## Project Structure
+# Project Structure
 
- # Script Functionality in "Eon Quest":
+ ## Script Functionality in "Eon Quest":
    some important scripts in the game are 
     
   - Player Scripts:
