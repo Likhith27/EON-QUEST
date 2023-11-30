@@ -119,7 +119,7 @@ The central objective of "Eon Quest" is for the player to find the lost artifact
 
  - Portal Script:
 
-   <mark>sceneportalserver.lua</mark>: Attached to the portal, this script manages the functionality of transporting the player between worlds. It may include animations, 
+   <code>sceneportalserver.lua</code>: Attached to the portal, this script manages the functionality of transporting the player between worlds. It may include animations, 
    sound effects, and triggers related to the portal's activation, ensuring a seamless transition between different areas within Eon.
    
  - UI Scripts:
