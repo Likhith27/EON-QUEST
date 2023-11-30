@@ -127,6 +127,7 @@ The central objective of "Eon Quest" is for the player to find the lost artifact
    sound effects, and triggers related to the portal's activation, ensuring a seamless transition between different areas within Eon.
    
  - UI Scripts:
+ - 
    <code>screenscoreboardcontrollerclient.lua</code>: Manages the UI for the coins board or scoreboard. This script updates and displays the player's current score, possibly 
    representing collected coins or other in-game achievements. It contributes to the player's sense of progress and accomplishment.
 
@@ -134,6 +135,7 @@ The central objective of "Eon Quest" is for the player to find the lost artifact
    include visual effects for damage, healing, or other status changes, providing crucial feedback to the player about their current state.
 
 - Weapon Scripts:
+- 
   <code>lootdropfactory.lua</code>: Handles the spawning and behavior of weapons as loot drops within the game. This script ensures that weapons are appropriately distributed 
   throughout the game world, possibly based on player progression or enemy encounters. It may also include logic for randomization in loot drops.
   
