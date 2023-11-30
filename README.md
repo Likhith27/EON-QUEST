@@ -52,23 +52,49 @@ The central objective of "Eon Quest" is for the player to find the lost artifact
    Environmental elements play a crucial role in both exploration and combat. Dynamic weather conditions, interactive puzzles, and destructible elements add       
    layers to the gameplay, encouraging strategic thinking and enhancing the overall gaming experience.
 
+##  Features in "Eon Quest"
 
-## Disclaimer
+- Weapon Variety:
+  The game boasts a diverse selection of weapons available for the player to choose from at the start. Ranging from swords and bows to magical staffs, each         weapon has its strengths and weaknesses. Players must strategically select the right weapon for the type of demon they encounter.
+   
+- Demon Diversity:
+  Leveraging the community content NPC kit, "Eon Quest" introduces a variety of demons, each with unique attributes and abilities. Some demons may have higher     
+  health but move slower, while others may be more agile but have lower health. This diversity adds depth to combat and requires players to adapt their strategies.
+  
+- Health and Weakness System:
+  Demons in the game possess different health levels and vulnerabilities. Some demons may be resistant to physical attacks but susceptible to magic, while others 
+  might have elemental weaknesses. Players need to analyze and exploit these weaknesses to efficiently defeat the demons.
+  
+- Community-Sourced Assets:
+  "Eon Quest" embraces community content by utilizing assets from NPC kits, project content, and other sources. This not only enriches the visual and auditory   
+   aspects of the game but also fosters a collaborative and diverse game development community.
 
-This project is being released as-is and targeted towards more testing users. It does not reflect current best practices nor is it perfectly optimized.
+- Temple Exploration:
+  The temples, obtained from community content, serve as key locations in the quest. Players must explore these ancient structures, solving puzzles and overcoming challenges to progress in their search for the lost artifact. The temples also provide a rich backdrop for uncovering the lore of Eon.
+  
+- Terrain Design:
+  The expansive terrain, painted with lush grass and featuring foliage such as trees, skulls, and mushrooms, creates an immersive and visually appealing   
+  environment. The 1024*1024 dimension allows for expansive landscapes, enhancing the sense of exploration and discovery.
+  
+- Portal Mechanics:
+The portal, acquired from project content, serves as the gateway between worlds. It not only facilitates the protagonist's arrival in Eon but also plays a pivotal role in the narrative. As players progress, they may discover additional portal-related mechanics that influence gameplay.
 
-## How to install and run the game
+- Interactive Environment:
+  The game encourages players to interact with the environment strategically. Whether it's using the terrain for cover during battles, discovering hidden 
+  pathways in temples, or utilizing the portal for tactical advantages, the environment is more than just a backdrop—it's an integral part of the gaming 
+  experience.
+  
+- Dynamic Lighting and Weather:
+  The game employs dynamic lighting and weather effects to enhance the visual experience. As players traverse different regions of Eon, they'll encounter varying 
+  lighting conditions, from the fiery glow of the demon-guarded landscapes to the serene ambiance of the icy realms.
+  
+- Player Progression and Upgrades:
+  As the player advances, they can earn experience points and discover or unlock new weapons and abilities. This progression system adds a layer of depth to the    gameplay, rewarding players for their exploration and combat achievements.
 
-- [How to install core and launch](https://support.coregames.com/hc/en-us/articles/360044766613-Installing-Launching-Core)
-- After installing the core game engine from unreal engine, [click here](https://www.coregames.com/games/fbc99e/mayadweepam) to play the game.
 
 ## Project Structure
 
- EON QUEST consists of 3 temples, the green artifact is present in one of the temples:
-
-- Earth monster
-- Ice monster
-- Fire monster
+ 
 
 ## License
 
